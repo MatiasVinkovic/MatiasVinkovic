@@ -1,55 +1,64 @@
-<h1 align="center">Salut, moi c'est Matias 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  Étudiant ingénieur chez CY Tech 💻 | Apprenti chez Safran 🚀 | Passionné par le code, les jeux et l'aquariophilie 🐠
+  IT Engineering student at CY Tech (formerly EISTI) 💻 | Apprentice at Safran as an Enterprise Architecte (IS) 🚀
 </p>
 
 ---
 
-### 🚧 Projet en cours : [Flex-App](https://flex-app.vercel.app)
+### 👨‍💻 About Me
 
-**Flex-App** est une application web collaborative pour gérer les dépenses en groupe.  
-🎯 Objectif : faciliter les remboursements, créer des événements partagés et… s’amuser ensemble.
+- 🎓 Currently studying IT at CY Tech Engineering School
+- 🏭 Apprentice in Enterprise Architecture at Safran
+- 💡 Passionate about technical development and meaningful projects, from embedded systems to tools that help others (and myself).
 
-🧾 Fonctions :
-- Envoi et réception de remboursements
-- Création d'événements partagés
-- Résumé clair des dettes
-- Remboursements auto (fixe ou équitable)
-- Mini-jeux intégrés 🎲
+---
 
-🧪 Stack :
+### 🔧 Technical Skills
+
+#### Web
+- **Frontend**: React.js, JSX, TSX, TypeScript, JavaScript, PHP
+- **Backend**: PHP, JavaScript (vanilla & API-based)
+
+#### Languages & Technologies
+- C • Java • Python • JavaScript • TypeScript • PHP • SQL queries • Shell • Cloud AWS 
+
+#### Tools
+- **Modeling & Architecture**: ArchiMate Tool (jArchi), focused on enterprise architecture
+- Git, GitHub, VS Code, Linux/Bash
+
+---
+
+### 🚧 Current Project: Flex-App
+
+**Flex-App** is a collaborative web app for managing group expenses.  
+🎯 Goal: simplify reimbursements, create shared events, and… have fun together.
+
+🧾 Features:
+- Send and receive reimbursements
+- Create shared group events
+- Clear summary of debts
+- Auto-calculated reimbursements (fixed or split)
+- Integrated mini-games 🎲
+
+🧪 Stack:
 - React.js, shadcn/ui
-- Supabase (Auth, BDD, API)
-- Vercel (déploiement CI via dépôt Git Synkro)
+- Supabase (Auth, DB, API)
+- Vercel (CI deployment via Synkro repo)
 
-🔗 [Voir le site](https://flex-app.vercel.app) – *en développement actif !*
-
----
-
-### 👨‍💻 À propos de moi
-
-- 🎓 Étudiant en informatique à CY Tech
-- 🏭 Apprenti en architecture d’entreprise chez Safran
-- 🔧 J’aime bricoler des apps web, coder des jeux et automatiser des trucs en Bash ou Python
-- 🐟 Fan d’aquariums et de nature
-- 🧠 J’adore comprendre des trucs compliqués et les rendre simples
+🔗 Visit the app – *actively in development!*
 
 ---
 
-### 📬 Me contacter
+### 📬 Contact Me
 
-- 📧 Email : matias.vink@example.com *(remplace si besoin)*
-- 🌐 [LinkedIn](https://linkedin.com/in/tonprofil)
-- 💼 [CV](https://tonsiteperso.com/cv.pdf) *(optionnel)*
+- 📧 Email: mativink@gmail.com 
+- 🌐 [LinkedIn](httpsailable)* Matias Vinkovic
 
 ---
 
-### 📊 Stats GitHub
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasvink&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
 
 ---
 
