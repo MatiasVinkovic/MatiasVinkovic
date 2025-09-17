@@ -29,26 +29,39 @@
 
 ---
 
-### 🚧 Current Project: Flex-App
+### 🚧 Last Project 
 
-**Flex-App** is a collaborative web app for managing group expenses.  
-🎯 Goal: simplify reimbursements, create shared events, and… have fun together.
+# 🥞 Maison Le Hec’h – Restaurant Website
 
-🧾 Features:
-- Send and receive reimbursements
-- Create shared group events
-- Clear summary of debts
-- Auto-calculated reimbursements (fixed or split)
-- Integrated mini-games 🎲
-
-🧪 Stack:
-- React.js, shadcn/ui
-- Supabase (Auth, DB, API)
-- Vercel (CI deployment via Synkro repo)
-
-🔗 Visit the app – *actively in development!*
+**Maison Le Hec’h** is a modern showcase website built for a crêperie & bakery located in L’Isle-Adam (Val-d’Oise, France).  
+🎯 Goal: provide an elegant, responsive online presence where customers can view the menu, check restaurant news, and book a table with ease.
 
 ---
+
+## ✨ Main Features
+- 📖 **Animated homepage**: mobile-first design with smooth scroll animations (zoom, fade-in, sliding text).
+- 🥞 **Interactive menu**: direct integration of the restaurant’s PDF menu.
+- 📢 **News & updates**: highlight the latest announcements from the restaurant and bakery.
+- 📅 **Reservation module**: simple booking form, integrated directly into the site, with optional external synchronization.
+- 📱 **Responsive design**: optimized for all devices (smartphone, tablet, desktop).
+- 🎨 **Custom visual identity**:  
+  - Colors: Green `#526c3f`, Gold `#9f785a`, Soft Yellow `#cf8b77`  
+  - Typography: *Baskerville* (elegant and timeless)  
+
+---
+
+## 🧪 Tech Stack
+- **Frontend**: React.js + Vite  
+- **UI/Design**: TailwindCSS + shadcn/ui + Framer Motion animations  
+- **Backend/Hosting**: Vercel (CI/CD)  
+- **Reservations**: custom React-based booking module with external integration support  
+- **Documents**: menu embedded in PDF format  
+
+---
+
+## 🔗 Live Website
+👉 [Visit Maison Le Hec’h](https://maison-lehech.fr)
+
 
 ### 📬 Contact Me
 
